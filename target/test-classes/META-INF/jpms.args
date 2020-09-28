@@ -1,0 +1,4 @@
+--patch-module
+org.openjfx.dixitoffline=_
+--add-reads
+org.openjfx.dixitoffline=ALL-UNNAMED
